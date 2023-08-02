@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: I love video gaming, and God of War is my all-time favorite game so far!
 -->
 
-<a href="https://app.daily.dev/dolce-emmy"><img src="https://api.daily.dev/devcards/7214629a125642478ad7b31f45f47a20.png?r=gq4" width="400" alt="Eman Yassin Mohamed Hassan's Dev Card"/>click me</a>
+<a href="dolce-emmy"><img src="https://api.daily.dev/devcards/7214629a125642478ad7b31f45f47a20.png?r=gq4" width="400" alt="dolce-emmy"/>click me</a>
