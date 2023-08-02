@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<!--
+
 **dolce-emmy/dolce-emmy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,6 +13,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: I love video gaming, and God of War is my all-time favorite game so far!
--->
+
 
 <a href="https://app.daily.dev/dolce-emmy"><img src="https://api.daily.dev/devcards/7214629a125642478ad7b31f45f47a20.png?r=gq4" width="400" alt="Eman Yassin Mohamed Hassan's Dev Card"/>click me</a>
