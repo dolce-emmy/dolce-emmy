@@ -11,7 +11,7 @@ Here are some ideas to get you started: -->
 <!-- - 🤔 I’m looking for help with ... -->
 <!-- - 💬 Ask me about HTML, CSS, Tailwind CSS, SCSS, JavaScript, React.js, Express.js, Node.js, and MongoDB. -->
 
- - 💬 Ask me about: <p align="center">
+ - 💬 Ask me about: <p display="block">
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" alt="JavaScript" width="40" height="40"></a>
   <a href="https://reactjs.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="React" width="40" height="40"></a>
   <a href="https://nodejs.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" alt="Node.js" width="40" height="40"></a>
