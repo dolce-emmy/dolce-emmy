@@ -17,7 +17,8 @@ Here are some ideas to get you started: -->
 
 <a href="https://app.daily.dev/dolce-emmy"><img src="https://github.com/dolce-emmy/dolce-emmy/blob/main/devcard.svg" width="400" alt= "Eman Yassin Mohamed Hassan's Dev Card"/>click me</a>
 
-- 💬 I enjoy working with: 
+## - 💬 Languages and tools:
+
 <p align="center">
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" alt="JavaScript" width="40" height="40"></a>
   <a href="https://reactjs.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="React" width="40" height="40"></a>
