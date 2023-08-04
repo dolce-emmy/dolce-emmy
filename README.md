@@ -22,7 +22,7 @@ Here are some ideas to get you started: -->
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" alt="CSS3" width="40" height="40"></a>
   <a href="https://git-scm.com/"><img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" alt="Git" width="40" height="40"></a>
   <a href="https://www.linux.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Made_with_Linux_orange.svg/640px-Made_with_Linux_orange.svg.png" alt="Linux" width="40" height="40"></a>
-  <a href="https://tailwindcss.com/"><img src="TAILWIND_CSS_URL_HERE" alt="Tailwind CSS" width="40" height="40"></a>
+  <a href="https://tailwindcss.com/"><img src="Tailwind CSS logo.svg" alt="Tailwind CSS" width="40" height="40"></a>
 
 </p>
 
