@@ -13,7 +13,7 @@ Here are some ideas to get you started: -->
 - 📫 How to reach me: eman.yassin83@gmail.com
 <!-- - 😄 Pronouns: ... -->
 - ⚡ Fun fact: I love video gaming, and God of War is my all-time favorite game so far!
--  - 💬 Ask me about: <p display="inline">
+- 💬 Ask me about: <p display="inline">
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" alt="JavaScript" width="40" height="40"></a>
   <a href="https://reactjs.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="React" width="40" height="40"></a>
   <a href="https://nodejs.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" alt="Node.js" width="40" height="40"></a>
@@ -24,6 +24,6 @@ Here are some ideas to get you started: -->
   
 </p>
 
-
+##
 <a href="https://app.daily.dev/dolce-emmy"><img src="https://github.com/dolce-emmy/dolce-emmy/blob/main/devcard.svg" width="400" alt= "Eman Yassin Mohamed Hassan's Dev Card"/>click me</a>
 
