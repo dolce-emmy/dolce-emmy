@@ -21,7 +21,7 @@ Here are some ideas to get you started: -->
   <a href="https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5"><img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" alt="HTML5" width="40" height="40"></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" alt="CSS3" width="40" height="40"></a>
   <a href="https://git-scm.com/"><img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" alt="Git" width="40" height="40"></a>
-  <a href="https://www.linux.org/"><img src="https://www.google.com/search?q=linux+icon&oq=linux+icon&aqs=chrome..69i57j0i512l9.10648j0j7&sourceid=chrome&ie=UTF-8#vhid=FWJMutDUobQpuM&vssid=l" alt="Linux" width="40" height="40"></a>
+  <a href="https://www.linux.org/"><img src="https://freepngimg.com/save/69446-and-kernel-open-source-unix-like-operating-systems-linux/1499x742" alt="Linux" width="40" height="40"></a>
   <a href="https://tailwindcss.com/"><img src="TAILWIND_CSS_URL_HERE" alt="Tailwind CSS" width="40" height="40"></a>
 
 </p>
