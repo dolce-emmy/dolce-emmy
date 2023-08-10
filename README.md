@@ -4,7 +4,7 @@
 <!-- **dolce-emmy/dolce-emmy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started: -->
-
+- 🌌 Linux advocate: "Once you see the light, you never go back!" 🌟
 - 🔭 I’m currently working on Personal web projects to apply and improve my skills.
 - 🌱 I’m currently working on a react project called Luxevivre
 - 👯 I’m looking to collaborate on Open-source projects related to web development
@@ -26,7 +26,7 @@ Here are some ideas to get you started: -->
 
 </p>
 
-- 🌌 Linux advocate: "Once you see the light, you never go back!" 🌟
+
 
 ##
 <a href="https://app.daily.dev/dolce-emmy"><img src="https://github.com/dolce-emmy/dolce-emmy/blob/main/devcard.svg" width="400" alt= "Eman Yassin Mohamed Hassan's Dev Card"/></a>
