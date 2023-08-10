@@ -26,7 +26,7 @@ Here are some ideas to get you started: -->
 
 </p>
 
-🌌 Linux advocate: "Once you see the light, you never go back!" 🌟
+- 🌌 Linux advocate: "Once you see the light, you never go back!" 🌟
 
 ##
 <a href="https://app.daily.dev/dolce-emmy"><img src="https://github.com/dolce-emmy/dolce-emmy/blob/main/devcard.svg" width="400" alt= "Eman Yassin Mohamed Hassan's Dev Card"/></a>
