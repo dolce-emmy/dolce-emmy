@@ -13,7 +13,7 @@ Here are some ideas to get you started: -->
 - 📫 How to reach me: eman.yassin83@gmail.com
 <!-- - 😄 Pronouns: ... -->
 - ⚡ Fun fact: I love video gaming, and God of War is my all-time favorite game so far!
-- 👨‍💻 I find joy in utilizing these technologies: <p display="inline">
+<!-- - 👨‍💻 I find joy in utilizing these technologies: <p display="inline">
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" alt="JavaScript" width="40" height="40"></a>
   <a href="https://reactjs.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="React" width="40" height="40"></a>
   <a href="https://nodejs.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" alt="Node.js" width="40" height="40"></a>
@@ -24,7 +24,7 @@ Here are some ideas to get you started: -->
   <a href="https://www.linux.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Made_with_Linux_orange.svg/640px-Made_with_Linux_orange.svg.png" alt="Linux" width="40" height="40"></a>
   <a href="https://tailwindcss.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/640px-Tailwind_CSS_Logo.svg.png" width="40" height="40"></a>
 
-</p>
+</p> -->
 
 ##
 <a href="https://app.daily.dev/dolce-emmy"><img src="https://github.com/dolce-emmy/dolce-emmy/blob/main/devcard.svg" width="400" alt= "Eman Yassin Mohamed Hassan's Dev Card"/></a> 
