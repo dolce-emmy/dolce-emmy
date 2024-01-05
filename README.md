@@ -29,5 +29,5 @@ Here are some ideas to get you started: -->
 
 
 ##
-<a href="https://app.daily.dev/dolce-emmy"><img src="https://github.com/dolce-emmy/dolce-emmy/blob/main/devcard.svg" width="400" alt= "Eman Yassin Mohamed Hassan's Dev Card"/></a>
+<!-- <a href="https://app.daily.dev/dolce-emmy"><img src="https://github.com/dolce-emmy/dolce-emmy/blob/main/devcard.svg" width="400" alt= "Eman Yassin Mohamed Hassan's Dev Card"/></a> -->
 
