@@ -13,7 +13,7 @@ Here are some ideas to get you started: -->
  
   ![Hello World I'm Eman](_.gif)
 </div>
-<div align="center">
+
 - 🌌 Linux advocate: "Once you see the light, you never go back!" 🌟
 - 🔭 I’m currently working on Personal web projects to apply and improve my skills.
 <!-- - 🌱 I’m currently working on a react project called Luxevivre -->
@@ -23,6 +23,9 @@ Here are some ideas to get you started: -->
 - 📫 How to reach me: eman.yassin83@gmail.com
 <!-- - 😄 Pronouns: ... -->
 - ⚡ Fun fact: I love video gaming, and God of War is my all-time favorite game so far!
+
+ <div align="center">
+   
 ## 👨‍💻 My Tech Stack:
 
 [![Next.js, Svelte, Node.js, JavaScript, TypeScript, AWS, GCP, Solidity](https://skillicons.dev/icons?i=linux,git,nodejs,html,css,bootstrap,figma,js,react,mongodb,express)](https://skillicons.dev)
