@@ -4,7 +4,7 @@
 <!-- **dolce-emmy/dolce-emmy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started: -->
-![](<iframe src="https://assets.pinterest.com/ext/embed.html?id=1046453663405377922" height="520" width="236" frameborder="0" scrolling="no" ></iframe>)
+![](https://assets.pinterest.com/ext/embed.html?id=1046453663405377922")
 
 
 
