@@ -28,7 +28,7 @@ Here are some ideas to get you started: -->
 
    
  ## 💡 A Quote:
- [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&?theme=nord)](https://github.com/piyushsuthar/github-readme-quotes)
+ [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=theme=nord)](https://github.com/piyushsuthar/github-readme-quotes)
    
 ## 👨‍💻 My Tech Stack:
 
