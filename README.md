@@ -10,7 +10,7 @@ Here are some ideas to get you started: -->
 
 <div align="center">
  
-  ![Hello World I'm Eman](_.gif)
+  ![Hello World I'm Eman](profile.gif)
 </div>
 
 - 🌌 Linux advocate: "Once you see the light, you never go back!" 🌟
