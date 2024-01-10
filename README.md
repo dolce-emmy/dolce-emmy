@@ -25,10 +25,9 @@ Here are some ideas to get you started: -->
 - ⚡ Fun fact: I love video gaming, and God of War is my all-time favorite game so far!
 
  <div align="center">
-
    
  ## 💡 A Quote:
- [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=theme=nord)](https://github.com/piyushsuthar/github-readme-quotes)
+ [![Readme Quotes](https://quotes-github-readme.vercel.app/api?theme=nord)](https://github.com/piyushsuthar/github-readme-quotes)
    
 ## 👨‍💻 My Tech Stack:
 
