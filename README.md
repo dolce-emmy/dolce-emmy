@@ -1,10 +1,15 @@
-### Hi there 👋
+
 
 
 <!-- **dolce-emmy/dolce-emmy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started: -->
-[![Hello World I'm Eman](_.gif)
+
+<div>
+  ### Hi World I'm Eman 👋
+  [![Hello World I'm Eman](_.gif)
+</div>
+
 
 
 
