@@ -26,7 +26,7 @@ Here are some ideas to get you started: -->
  <div align="center">
    
  ## 💡 A Quote:
- [![Readme Quotes](https://quotes-github-readme.vercel.app/api?theme=nord)](https://github.com/piyushsuthar/github-readme-quotes)
+ [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
    
 ## 👨‍💻 My Tech Stack:
 
