@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started: -->
 
-<div>
+<div align="center">
  
   ![Hello World I'm Eman](_.gif)
 </div>
