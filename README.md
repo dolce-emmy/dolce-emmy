@@ -30,7 +30,7 @@ Here are some ideas to get you started: -->
    
  ## 👨‍💻 My Tech Stack:
 
-[![Next.js, Svelte, Node.js, JavaScript, TypeScript, AWS, GCP, Solidity](https://skillicons.dev/icons?i=linux,git,nodejs,html,css,bootstrap,figma,js,react,mongodb,express)(https://skillicons.dev)
+[![Next.js, Svelte, Node.js, JavaScript, TypeScript, AWS, GCP, Solidity](https://skillicons.dev/icons?i=linux,git,nodejs,html,css,bootstrap,figma,js,react,mongodb,express)](https://skillicons.dev)
 
 ## 🏆 My Daily Dev Activity:
 <a href="https://app.daily.dev/dolce-emmy"><img src="https://github.com/dolce-emmy/dolce-emmy/blob/main/devcard.svg" width="400" alt= "Eman Yassin Mohamed Hassan's Dev Card"/></a> 
