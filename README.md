@@ -14,9 +14,6 @@ Here are some ideas to get you started: -->
   ![Hello World I'm Eman](_.gif)
 </div>
 
-
-
-
 - 🌌 Linux advocate: "Once you see the light, you never go back!" 🌟
 - 🔭 I’m currently working on Personal web projects to apply and improve my skills.
 <!-- - 🌱 I’m currently working on a react project called Luxevivre -->
@@ -28,7 +25,7 @@ Here are some ideas to get you started: -->
 - ⚡ Fun fact: I love video gaming, and God of War is my all-time favorite game so far!
 ## 👨‍💻 My Tech Stack:
 
-[![Next.js, Svelte, Node.js, JavaScript, TypeScript, AWS, GCP, Solidity](https://skillicons.dev/icons?i=next,svelte,nodejs,js,ts,aws,gcp,solidity)](https://skillicons.dev)
+[![Next.js, Svelte, Node.js, JavaScript, TypeScript, AWS, GCP, Solidity](https://skillicons.dev/icons?i=linux,git,nodejs,html,css,bootstrap,figma,js,react,mongodb,express)](https://skillicons.dev)
 
 ##
 <a href="https://app.daily.dev/dolce-emmy"><img src="https://github.com/dolce-emmy/dolce-emmy/blob/main/devcard.svg" width="400" alt= "Eman Yassin Mohamed Hassan's Dev Card"/></a> 
