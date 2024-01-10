@@ -4,10 +4,7 @@
 <!-- **dolce-emmy/dolce-emmy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started: -->
-<div align="center">
-[![Hello World, I'm Eman!](assets/header.gif)](https://github.com/dolce-emmy)
-Background GIF by [Aliciel](https://www.pinterest.com/pin/1046453663405377922/) on [Pinterest](https://www.pinterest.com/).
-</div>
+<iframe src="https://assets.pinterest.com/ext/embed.html?id=1046453663405377922" height="714" width="345" frameborder="0" scrolling="no" ></iframe>
 - 🌌 Linux advocate: "Once you see the light, you never go back!" 🌟
 - 🔭 I’m currently working on Personal web projects to apply and improve my skills.
 - 🌱 I’m currently working on a react project called Luxevivre
