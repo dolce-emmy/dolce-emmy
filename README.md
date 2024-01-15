@@ -34,8 +34,9 @@ Here are some ideas to get you started: -->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dolce-emmy&show=reviews,prs_merged,prs_merged_percentage&theme=monokai)
 
 </div>
-
-   < !-- ## 👨‍💻 My Tech Stack:
+ 
+ 
+ <!--  ## 👨‍💻 My Tech Stack:
 [![Next.js, Svelte, Node.js, JavaScript, TypeScript, AWS, GCP, Solidity](https://skillicons.dev/icons?i=linux,git,nodejs,html,css,bootstrap,figma,js,react,mongodb,express)](https://skillicons.dev) -->
 
   
