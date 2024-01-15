@@ -32,17 +32,9 @@ Here are some ideas to get you started: -->
 
 </div>
 
-<div style="display: flex; justify-content: space-between;">
-
-  <div>
-    <h2>My Github Status:</h2>
-    <img src="https://github-readme-stats.vercel.app/api?username=dolce-emmy&show=reviews,prs_merged,prs_merged_percentage&theme=monokai" alt="GitHub Stats">
-  </div>
-
-  <div>
-    <h2>Most Used Languages</h2>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dolce-emmy&hide_progress=true" alt="Top Languages">
-  </div>
+|   My Github Status:                                 |   Most Used Languages:                             |
+|-----------------------------------------------------|-----------------------------------------------------|
+| ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dolce-emmy&show=reviews,prs_merged,prs_merged_percentage&theme=monokai) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dolce-emmy&hide_progress=true) |
  
  
  <!--  ## 👨‍💻 My Tech Stack:
