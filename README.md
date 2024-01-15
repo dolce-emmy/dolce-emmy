@@ -27,7 +27,7 @@ Here are some ideas to get you started: -->
 ## 💡 A Quote:
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 
-## My Github Status:
+## 🧮 My Github Status:
 
 <p float="left">
   <img src="https://github-readme-stats.vercel.app/api?username=dolce-emmy&show=reviews,prs_merged,prs_merged_percentage&theme=monokai" alt="GitHub Stats" width="48%" />
