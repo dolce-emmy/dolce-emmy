@@ -34,13 +34,11 @@ Here are some ideas to get you started: -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dolce-emmy&hide_progress=true&theme=monokai" alt="Top Languages" width="50%" />
 </p>
   
- 
-  ## 🏆 My Activity:
-  
-<p> <a href="https://app.daily.dev/dolceemmy261"><img src="https://github.com/dolce-emmy/dolce-emmy/blob/main/devcard.svg" width="400" alt= "Eman Yassin Mohamed Hassan's Dev Card"/></a> </p>
-
 
 </div>
+  ## 🏆 My Activity:
+  
+<p align="center"> <a href="https://app.daily.dev/dolceemmy261"><img src="https://github.com/dolce-emmy/dolce-emmy/blob/main/devcard.svg" width="400" alt= "Eman Yassin Mohamed Hassan's Dev Card"/></a> </p>
 
 ## 👨‍💻 My Tech Stack:
 
