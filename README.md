@@ -39,7 +39,7 @@ Here are some ideas to get you started: -->
   ## 🏆 My Activity:
   
 <p align="center"> 
-  <a href="https://app.daily.dev/dolceemmy261"><img src="https://github.com/dolce-emmy/dolce-emmy/blob/main/devcard.svg" width="200" alt= "Eman Yassin Mohamed Hassan's Dev Card"/></a> </p>
+  <a href="https://app.daily.dev/dolceemmy261"><img src="https://github.com/dolce-emmy/dolce-emmy/blob/main/devcard.svg" width="400" alt= "Eman Yassin Mohamed Hassan's Dev Card"/></a> </p>
 
 <!-- ## 👨‍💻 My Tech Stack:
 
