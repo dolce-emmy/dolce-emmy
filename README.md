@@ -34,11 +34,12 @@ Here are some ideas to get you started: -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dolce-emmy&hide_progress=true&theme=monokai" alt="Top Languages" width="50%" />
 </p>
  
- 
- ## 👨‍💻 My Tech Stack:
-
  <div width="50%">
-   [![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,figma,js,react,mongodb,express)](https://skillicons.dev)
+  
+   ## 👨‍💻 My Tech Stack:
+   
+   ![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,figma,js,react,mongodb,express)](https://skillicons.dev)
+   
  </div>
  
 
