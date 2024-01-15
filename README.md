@@ -39,7 +39,7 @@ Here are some ideas to get you started: -->
 
 
 
-<div width="50%">
+<div width="25%">
   
   ## 🏆 My Activity:
   <a href="https://app.daily.dev/dolceemmy261"><img src="https://github.com/dolce-emmy/dolce-emmy/blob/main/devcard.svg" width="400" alt= "Eman Yassin Mohamed Hassan's Dev Card"/></a>
