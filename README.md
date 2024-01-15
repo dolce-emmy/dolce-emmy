@@ -29,7 +29,7 @@ Here are some ideas to get you started: -->
 
 <div>
 
-![GitHub language count](https://img.shields.io/github/languages/count/https%3A%2F%2Fgithub.com%2Fdolce-emmy/:repo)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dolce-emmy&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
 
 
 </div>
