@@ -29,7 +29,7 @@ Here are some ideas to get you started: -->
 
 <div>
 
-<iframe width="100%" height="500" src="https://raw.githubusercontent.com/dolce-emmy/chart2/main/technology_pie_chart.html"></iframe>
+![GitHub language count](https://img.shields.io/github/languages/count/https%3A%2F%2Fgithub.com%2Fdolce-emmy/:repo)
 
 
 </div>
