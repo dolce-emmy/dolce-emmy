@@ -35,7 +35,8 @@ Here are some ideas to get you started: -->
 
 </div>
 
-   
+   < !-- ## 👨‍💻 My Tech Stack:
+[![Next.js, Svelte, Node.js, JavaScript, TypeScript, AWS, GCP, Solidity](https://skillicons.dev/icons?i=linux,git,nodejs,html,css,bootstrap,figma,js,react,mongodb,express)](https://skillicons.dev) -->
 
 
 
@@ -50,8 +51,7 @@ Here are some ideas to get you started: -->
 </div>
 <div>
   
-  ## 👨‍💻 My Tech Stack:
-[![Next.js, Svelte, Node.js, JavaScript, TypeScript, AWS, GCP, Solidity](https://skillicons.dev/icons?i=linux,git,nodejs,html,css,bootstrap,figma,js,react,mongodb,express)](https://skillicons.dev)
+ 
 
 </div>
 
