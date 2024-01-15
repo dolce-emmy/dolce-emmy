@@ -27,9 +27,7 @@ Here are some ideas to get you started: -->
 ## 💡 A Quote:
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 
-<div>
-  ![Technology Pie Chart](technology_pie_chart.html)
-</div>
+
    
 <!-- ## 👨‍💻 My Tech Stack:
 [![Next.js, Svelte, Node.js, JavaScript, TypeScript, AWS, GCP, Solidity](https://skillicons.dev/icons?i=linux,git,nodejs,html,css,bootstrap,figma,js,react,mongodb,express)](https://skillicons.dev)-->
