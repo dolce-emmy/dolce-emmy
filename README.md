@@ -30,7 +30,7 @@ Here are some ideas to get you started: -->
 <div>
  # Interactive Chart
 
-<iframe width="100%" height="500" src="https://https://raw.githubusercontent.com/dolce-emmy/chart/master/technology_pie_chart.html"></iframe>
+<iframe width="100%" height="500" src="https://gist.githubusercontent.com/dolce-emmy/1693702b0b12a31cc13069674a1a5f81/raw/2c7d2e119a5523709adba0979d4352ccac444355/gistfile1.txt"></iframe>
 
 </div>
    
