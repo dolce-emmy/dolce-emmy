@@ -36,8 +36,12 @@ Here are some ideas to get you started: -->
  
  
  ## 👨‍💻 My Tech Stack:
+
+ <div width="50%">
+   [![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,figma,js,react,mongodb,express)](https://skillicons.dev)
+ </div>
  
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,figma,js,react,mongodb,express)](https://skillicons.dev)
+
 
   
   ## 🏆 My Activity:
