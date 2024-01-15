@@ -34,7 +34,7 @@ Here are some ideas to get you started: -->
 
 |   My Github Status:                                 |   Most Used Languages:                             |
 |-----------------------------------------------------|-----------------------------------------------------|
-| ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dolce-emmy&show=reviews,prs_merged,prs_merged_percentage&theme=monokai) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dolce-emmy&hide_progress=true) |
+| ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dolce-emmy&show=reviews,prs_merged,prs_merged_percentage&theme=monokai) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dolce-emmy&hide_progress=true&theme=monokai) |
  
  
  <!--  ## 👨‍💻 My Tech Stack:
