@@ -27,11 +27,6 @@ Here are some ideas to get you started: -->
 ## 💡 A Quote:
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 
-
-
-
-</div>
-
 ## My Github Status:
 
 <p float="left">
@@ -47,6 +42,11 @@ Here are some ideas to get you started: -->
   ## 🏆 My Activity:
   
 <p> <a href="https://app.daily.dev/dolceemmy261"><img src="https://github.com/dolce-emmy/dolce-emmy/blob/main/devcard.svg" width="400" alt= "Eman Yassin Mohamed Hassan's Dev Card"/></a> </p>
+
+
+</div>
+
+
   
 
 
