@@ -28,8 +28,7 @@ Here are some ideas to get you started: -->
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 
 <div>
-  ## Technology Chart
-  [View Interactive Chart](https://raw.githubusercontent.com/dolce-emmy/chart/master/technology_pie_chart.html)
+ 
 
 </div>
    
