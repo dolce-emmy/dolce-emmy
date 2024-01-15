@@ -27,15 +27,18 @@ Here are some ideas to get you started: -->
 ## 💡 A Quote:
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 
-<div>
 
+<div style="display: flex; justify-content: space-between;">
 
-## My Github Status:
+  <div>
+    <h2>My Github Status:</h2>
+    <img src="https://github-readme-stats.vercel.app/api?username=dolce-emmy&show=reviews,prs_merged,prs_merged_percentage&theme=monokai" alt="GitHub Stats">
+  </div>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dolce-emmy&show=reviews,prs_merged,prs_merged_percentage&theme=monokai)
-
-## Most Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dolce-emmy&hide_progress=true)
+  <div>
+    <h2>Most Used Languages</h2>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dolce-emmy&hide_progress=true" alt="Top Languages">
+  </div>
 
 </div>
  
