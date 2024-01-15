@@ -32,9 +32,10 @@ Here are some ideas to get you started: -->
 
 </div>
 
-|   My Github Status:                                 |   Most Used Languages:                             |
-|-----------------------------------------------------|-----------------------------------------------------|
-| ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dolce-emmy&show=reviews,prs_merged,prs_merged_percentage&theme=monokai) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dolce-emmy&hide_progress=true&theme=monokai) |
+<p float="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=dolce-emmy&show=reviews,prs_merged,prs_merged_percentage&theme=monokai" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dolce-emmy&hide_progress=true" alt="Top Languages" width="48%" />
+</p>
  
  
  <!--  ## 👨‍💻 My Tech Stack:
