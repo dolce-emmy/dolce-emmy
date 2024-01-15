@@ -35,7 +35,7 @@ Here are some ideas to get you started: -->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dolce-emmy&show=reviews,prs_merged,prs_merged_percentage&theme=monokai)
 
 ## Most Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dolce-emmy&hide_progress=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dolce-emmy&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
  
