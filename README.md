@@ -28,6 +28,10 @@ Here are some ideas to get you started: -->
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 
 
+
+
+</div>
+
 <div style="display: flex; justify-content: space-between;">
 
   <div>
@@ -39,8 +43,6 @@ Here are some ideas to get you started: -->
     <h2>Most Used Languages</h2>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dolce-emmy&hide_progress=true" alt="Top Languages">
   </div>
-
-</div>
  
  
  <!--  ## 👨‍💻 My Tech Stack:
