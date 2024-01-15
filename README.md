@@ -29,7 +29,8 @@ Here are some ideas to get you started: -->
 
 <div>
   ## Technology Chart
-  ![Technology Pie Chart](https://github.com/dolce-emmy/chart/raw/master/technology_pie_chart.html)
+  [View Interactive Chart](https://raw.githubusercontent.com/dolce-emmy/chart/master/technology_pie_chart.html)
+
 </div>
    
 <!-- ## 👨‍💻 My Tech Stack:
