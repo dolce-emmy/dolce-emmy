@@ -28,9 +28,8 @@ Here are some ideas to get you started: -->
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 
 <div>
- # Interactive Chart
 
-<iframe width="100%" height="500" src="file:///home/user/Downloads/technology_pie_chart%20(2).html"></iframe>
+
 
 </div>
    
