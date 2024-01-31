@@ -36,17 +36,19 @@ Here are some ideas to get you started: -->
   
 </div>
 
-  ## 🏆 My Activity:
-  
-<p align="center"> 
-  <a href="https://app.daily.dev/dolceemmy261"><img src="https://github.com/dolce-emmy/dolce-emmy/blob/main/devcard.svg" width="400" alt= "Eman Yassin Mohamed Hassan's Dev Card"/></a> </p>
-
  ## 👨‍💻 My Tech Stack:
 
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=js,html,css,bootstrap,figma,js,react,mongodb,express" />
   </a>
+
+
+  ## 🏆 My Activity:
+  
+<p align="center"> 
+  <a href="https://app.daily.dev/dolceemmy261"><img src="https://github.com/dolce-emmy/dolce-emmy/blob/main/devcard.svg" width="400" alt= "Eman Yassin Mohamed Hassan's Dev Card"/></a> </p>
+
 
 
 
