@@ -38,9 +38,12 @@ Here are some ideas to get you started: -->
 
  ## 👨‍💻 My Tech Stack:
 
+# Frontend:
+
+
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,css,bootstrap,figma,react,mongodb,express" />
+  [!Javascript]<img src="https://skillicons.dev/icons?i=js,html,css,bootstrap,figma,react,mongodb,express" />
   </a>
 
 
