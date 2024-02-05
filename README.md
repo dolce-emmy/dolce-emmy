@@ -44,7 +44,7 @@ Here are some ideas to get you started: -->
 <p align="center">
   <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=js,html,css,bootstrap,figma,react,mongodb,express" />
-    ![Tailwind](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=canva&logoColor=white)
+    ![Tailwind](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
   </a>
 
 
