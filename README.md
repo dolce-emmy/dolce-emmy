@@ -20,7 +20,7 @@ Here are some ideas to get you started: -->
 <!-- - 💬 Ask me about HTML, CSS, Tailwind CSS, SCSS, JavaScript, React.js, Express.js, Node.js, and MongoDB. -->
 - 📫 How to reach me: eman.yassin83@gmail.com
 <!-- - 😄 Pronouns: ... -->
-- ⚡ Fun fact: I love video gaming, and God of War is my all-time favorite game so far!
+- ⚡ Fun fact: I love video gaming, Monkey Island, Cyberpunk 2077 are my all-time favorite!
 
  <div align="center">
    
